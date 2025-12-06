@@ -1,0 +1,92 @@
+[
+  {
+    "email": "carla.dunn@globaltech.com",
+    "job_title": "Chief Information Officer",
+    "comment": "We need to improve our order management efficiency. My team is available for a technical deep dive next week.",
+    "urgency": "High",
+    "persona_type": "Decision Maker",
+    "summary": "CIO seeking to improve order management efficiency and requesting a technical deep dive next week.",
+    "assigned_team": "Strategic Sales"
+  },
+  {
+    "email": "david.lee@innovateinc.com",
+    "job_title": "Senior Process Analyst",
+    "comment": "My manager asked me to find a solution for mapping our accounts payable process. We are on SAP S/4HANA and need a demo ASAP.",
+    "urgency": "High",
+    "persona_type": "Practitioner",
+    "summary": "Senior Process Analyst requesting an ASAP demo for accounts payable process mapping on SAP S/4HANA.",
+    "assigned_team": "Enterprise Sales"
+  },
+  {
+    "email": "sandra.p@acmecorp.com",
+    "job_title": "Marketing Manager",
+    "comment": "Just exploring process mining tools and wanted to understand your pricing and features compared to competitors.",
+    "urgency": "Medium",
+    "persona_type": "Practitioner",
+    "summary": "Marketing Manager exploring process mining tools and requesting pricing and feature comparisons with competitors.",
+    "assigned_team": "Sales Development"
+  },
+  {
+    "email": "ben.carter@university.edu",
+    "job_title": "Data Science Student",
+    "comment": "I'm a student working on a project about process intelligence and would love to get a demo of your product for my research paper.",
+    "urgency": "Low",
+    "persona_type": "Other",
+    "summary": "Student requesting a demo of your product for an academic research project on process intelligence.",
+    "assigned_team": "Nurture Campaign"
+  },
+  {
+    "email": "frank.white@midsizebiz.com",
+    "job_title": "Operations Director",
+    "comment": "Saw your ad. Looks interesting. Tell me more.",
+    "urgency": "Low",
+    "persona_type": "Decision Maker",
+    "summary": "Operations Director saw an ad and is asking for more information about your solution.",
+    "assigned_team": "Nurture Campaign"
+  },
+  {
+    "email": "ana.gomez@examplecorp.com",
+    "job_title": "VP of Procurement",
+    "comment": "Hi, we are evaluating process mining solutions to optimize our procure-to-pay cycle. We have over 5000 employees and use SAP. Can someone from sales contact us?",
+    "urgency": "High",
+    "persona_type": "Decision Maker",
+    "summary": "VP of Procurement evaluating process mining for procure-to-pay (5000+ employees, SAP) requesting sales contact.",
+    "assigned_team": "Strategic Sales"
+  },
+  {
+    "email": "emily.wong@techsolutions.io",
+    "job_title": "IT Systems Engineer",
+    "comment": "We are planning our budget for next year and are considering a process mining initiative. Could you send over some case studies for the manufacturing industry?",
+    "urgency": "Medium",
+    "persona_type": "Practitioner",
+    "summary": "IT Systems Engineer planning next year's budget and requesting manufacturing case studies for a possible process mining initiative.",
+    "assigned_team": "Sales Development"
+  },
+  {
+    "email": "mark.j@regionalbank.com",
+    "job_title": "Business Analyst",
+    "comment": "How does your software connect to custom-built CRM systems? We're looking into improving our customer journey process.",
+    "urgency": "Medium",
+    "persona_type": "Practitioner",
+    "summary": "Business Analyst asking about integrations with custom CRM systems to improve the customer journey.",
+    "assigned_team": "Sales Development"
+  },
+  {
+    "email": "lisa.chen@healthsys.org",
+    "job_title": "Head of Patient Services",
+    "comment": "Our patient intake process has major bottlenecks. We need a way to visualize and fix them. Urgently looking for a solution.",
+    "urgency": "High",
+    "persona_type": "Decision Maker",
+    "summary": "Head of Patient Services urgently seeking a solution to visualize and fix major patient intake bottlenecks.",
+    "assigned_team": "Strategic Sales"
+  },
+  {
+    "email": "no-reply@test.com",
+    "job_title": "Consultant",
+    "comment": "Info.",
+    "urgency": "Low",
+    "persona_type": "Other",
+    "summary": "Consultant sent a short 'Info.' request with no clear intent.",
+    "assigned_team": "Nurture Campaign"
+  }
+]
